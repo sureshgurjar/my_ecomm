@@ -1,6 +1,6 @@
 I have created Django ecommerce website, which has a dynamic pages and features such as dynamic products, account registeration and login feature, and products can be added by a naive user also, who don't understand programming simply logging in as a staff or a admin. Below I have attached some screenshots.
 
-<img src="https://ibb.co/QDD8wV3" width="70%"> , 
+<img src="https://i.ibb.co/cYYbn9S/homepage.png" width="70%"> , 
 https://ibb.co/6PqW2KW , 
 https://ibb.co/DYmTGFZ , 
 https://ibb.co/JRqT6k1 , 
